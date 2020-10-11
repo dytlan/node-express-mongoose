@@ -1,0 +1,8 @@
+{
+    "env": {
+    "MONGODB_USERNAME": "devalpha",
+    "MONGODB_PASSWORD": "jajamiharja123",
+    "MONGODB_DBNAME": "shop_mongoose",
+    "STRIPE_SECRET_KEY": "sk_test_51HXLoQCGyhIFEIxIFerOfiPhJvNyzrvFAxTU90jLr5lsBXmva0rdddtKw5ErQB6zq5MaBcirXlHrS5FE8LzVO0R9001mokUl5Q"
+    }
+}
